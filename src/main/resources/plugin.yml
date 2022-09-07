@@ -1,0 +1,10 @@
+name: Howl
+version: '${version}'
+main: castle.moving.howl.Howl
+api-version: 1.19
+authors: [ dd ]
+description: dd
+commands:
+  set:
+    description: gg
+
